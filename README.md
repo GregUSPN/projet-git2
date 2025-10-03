@@ -1,2 +1,2 @@
-# projet-git2
-TP Gestion de Projet
+# Projet Git et GitHub
+Participants: Grégoire Martin--Boyer
